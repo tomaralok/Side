@@ -1,0 +1,38 @@
+@import '~antd/dist/antd.css';
+
+.ebCczK {
+    min-height: 38px !important;
+}
+
+#right {
+    padding-top: 0.5rem;
+    background-color: white;
+}
+
+#right div:first-child {
+    overflow-x: hidden !important;
+}
+
+.grid-header {
+    padding-top: 3rem !important;
+}
+
+#navbar {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.site-layout-background{
+    position: fixed;
+    background: #fff;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+
+}
